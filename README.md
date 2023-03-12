@@ -27,7 +27,7 @@ pip install opencv-python
 ## Running the code
 ```
 cd proj2_tharun_puthanveettil/code
-python d_solver.py 
+python dijkstra_tharun_puthanveettil.py
 ```
 Note:
 Give the input in the following format:
