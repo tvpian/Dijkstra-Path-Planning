@@ -448,13 +448,13 @@ if __name__ == "__main__":
     val = input("Enter the starting position as x,y [eg: for [0,0] - 0,0]: ")
     x = int(val.split(',')[0])
     y = int(val.split(',')[1])
-    initial_state = np.array([x,y])
+    initial_state = np.array([y,x])
 
     
     val = input("Enter the final position as x,y [eg: for [0,0] - 0,0]: ")
     x = int(val.split(',')[0])
     y = int(val.split(',')[1])
-    goal_state = np.array([x,y])
+    goal_state = np.array([y,x])
 
 
     height = 250 # Height of the grid
