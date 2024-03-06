@@ -1,4 +1,4 @@
-# ENPM661 - Planning for Autonomous Robots - Project 2
+# Dijkstra Path Planning for Point Robots
 Name: Tharun Vadakke Puthanveettil
 
 UID: 119069516
