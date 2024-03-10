@@ -44,7 +44,8 @@ The output files - Final.avi will be stored in the folder proj2_tharun_puthanvee
 ## Test Case Results - To show successful implementation of Searching and Backtracking
 The video result for a random case: [200,200] stored in the folder proj2_tharun_puthanveettil/results
 
-![Converted (1)](https://github.com/tvpian/Dijkstra-Path-Planning/assets/41953267/ed504298-405d-4791-8870-4d22732f8f6e)
+[Converted.webm](https://github.com/tvpian/Dijkstra-Path-Planning/assets/41953267/56132ffb-578a-4c9f-90cf-dfa5afea5053)
+
 
 
 
