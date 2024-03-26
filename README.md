@@ -1,10 +1,4 @@
 # Dijkstra Path Planning for Point Robots
-Name: Tharun Vadakke Puthanveettil
-
-UID: 119069516
-
-Course:  ENPM661 - Planning for Autonomous Robots
-
 ## Installing the dependencies
 
 *To install Matplotlib*
